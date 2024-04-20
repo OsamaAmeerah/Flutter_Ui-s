@@ -42,7 +42,7 @@ class LoginArea extends StatelessWidget {
           ),
           const SizedBox(height: 20.0,),
           const AuthTextFormField(
-            prefix: Icon(Icons.email),
+            prefix: Icon(Icons.password),
             prefixIconColor: Colors.grey,
             labelStyle: TextStyle(
               color: Colors.white,
